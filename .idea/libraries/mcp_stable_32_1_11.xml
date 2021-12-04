@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mcp_stable-32-1.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mcp_stable/32-1.11/mcp_stable-32-1.11.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

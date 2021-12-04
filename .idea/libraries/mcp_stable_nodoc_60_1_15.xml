@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mcp_stable_nodoc-60-1.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mcp_stable_nodoc/60-1.15/mcp_stable_nodoc-60-1.15.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

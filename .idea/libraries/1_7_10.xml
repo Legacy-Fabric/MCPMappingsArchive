@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.7.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mcp/1.7.10/mcp-1.7.10-srg.zip!/" />
+      <root url="jar://$PROJECT_DIR$/mcp/1.7.10/mcp-1.7.10-csrg.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
